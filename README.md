@@ -20,17 +20,24 @@ A aplicação disponibiliza uma API REST documentada com **Swagger**, permitindo
 ## 🗃️ Estrutura do Projeto
 
 ├── Controllers/
+
 │ └── PredictController.cs
 ├── Models/
 │ ├── EntradaModel.cs
 │ └── PrevisaoModel.cs
+
 ├── Services/
 │ └── MLService.cs
+
 ├── Data/
 │ └── dados.csv
+
 ├── appsettings.json
+
 ├── Program.cs
+
 ├── Startup.cs
+
 ├── PrevisaoML.sln
 
 
