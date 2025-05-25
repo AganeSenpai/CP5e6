@@ -56,9 +56,7 @@ R²: 0.98
 
 🚀 Executando a API
 
-Clone o projeto:
-
-git clone https://github.com/AganeSenpai/CP5e6
+Baixe o projeto(esta zipado neste github:https://github.com/AganeSenpai/CP5e6
 
 Abra a solução PrevisaoML.sln no Visual Studio.
 
